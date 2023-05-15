@@ -1,0 +1,25 @@
+transformers
+gdown
+torch
+path
+rich
+torchvision
+numpy
+visdom
+tqdm
+Pillow
+scipy
+pandas
+matplotlib
+wandb
+datasets
+scikit-learn
+lime
+accelerate
+datasets
+nltk
+evaluate
+sentencepiece != 0.1.92
+protobuf
+rouge-score
+py7zr

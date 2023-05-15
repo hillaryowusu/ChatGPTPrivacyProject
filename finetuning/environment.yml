@@ -1,0 +1,6 @@
+name: pyone_project
+channels:
+  - conda-forge
+dependencies:
+  - python==3.10
+  - ipython
