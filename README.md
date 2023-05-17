@@ -19,3 +19,5 @@ General steps:
 
 
 NB: Our inference results are skewed due to biased data and complexity of GPT-3 architecture. Further study and tests will be ran to improve upon our results.
+
+Find our final presentation slides here : https://docs.google.com/presentation/d/1BKyRVXg25lf6TNw1QgmUjWEmOL7XBiAz5hKsQ3VbpN0/edit?usp=sharing
