@@ -2,7 +2,7 @@
 
 This code is for our project: Assessing the vulnearibilies of ChatGPT against membership inference attacks & proposing defective strategies. For the course timeline, we focused on the phase one which was assessing the vulnetabilities of ChatGPT.
 
-Due to inaccessibility og gpt-3 model. We used a fine-tuned gpt-2 model. Find info regarding the finetuning in the folder "finetuning".
+Due to inaccessibility of gpt-3.5 model. We used a fine-tuned gpt-2 model. Find info regarding the finetuning in the folder "finetuning".
 Datasets used for training the attack model can be accessed through this link: https://drive.google.com/drive/folders/1_H3M7wKD0EbeSZOTeevD5WIcqnL4396X?usp=share_link
 
 Weights for attack model can also be accessed via: https://drive.google.com/drive/folders/1eGVTtXWagyvgKaItRS0C02biLTNfWopp?usp=share_link
